@@ -1,0 +1,17 @@
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.deps.json
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.dll
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.pdb
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.AssemblyInfo.cs
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.dll
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.pdb
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.deps.json
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.dll
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.pdb
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.dll
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.IoC\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.IoC.pdb

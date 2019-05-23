@@ -1,0 +1,6 @@
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Site\obj\Debug\netcoreapp2.2\Livraria.IO.Site.csprojAssemblyReference.cache
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Site\obj\Debug\netcoreapp2.2\Livraria.IO.Site.csproj.CoreCompileInputs.cache
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Site\obj\Debug\netcoreapp2.2\Livraria.IO.Site.RazorAssemblyInfo.cache
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Site\obj\Debug\netcoreapp2.2\Livraria.IO.Site.RazorAssemblyInfo.cs
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Site\obj\Debug\netcoreapp2.2\Livraria.IO.Site.AssemblyInfoInputs.cache
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Site\obj\Debug\netcoreapp2.2\Livraria.IO.Site.AssemblyInfo.cs

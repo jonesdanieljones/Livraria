@@ -1,0 +1,16 @@
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.deps.json
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.dll
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.pdb
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.csproj.CoreCompileInputs.cache
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.AssemblyInfoInputs.cache
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.AssemblyInfo.cs
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.dll
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.pdb
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.deps.json
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.dll
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\bin\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.pdb
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.csproj.CoreCompileInputs.cache
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.AssemblyInfoInputs.cache
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.AssemblyInfo.cs
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.dll
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Infra.CrossCutting.AspNetFilters\obj\Debug\netstandard2.0\Livraria.IO.Infra.CrossCutting.AspNetFilters.pdb

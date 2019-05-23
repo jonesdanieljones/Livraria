@@ -1,0 +1,17 @@
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\bin\Debug\netstandard2.0\Livraria.IO.Domain.Core.deps.json
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\bin\Debug\netstandard2.0\Livraria.IO.Domain.Core.dll
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\bin\Debug\netstandard2.0\Livraria.IO.Domain.Core.pdb
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.csproj.CoreCompileInputs.cache
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.AssemblyInfoInputs.cache
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.AssemblyInfo.cs
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.dll
+D:\Projetos\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.pdb
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\bin\Debug\netstandard2.0\Livraria.IO.Domain.Core.deps.json
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\bin\Debug\netstandard2.0\Livraria.IO.Domain.Core.dll
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\bin\Debug\netstandard2.0\Livraria.IO.Domain.Core.pdb
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.csprojAssemblyReference.cache
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.AssemblyInfo.cs
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.dll
+C:\Users\Jones\Downloads\Livraria\Livraria\Livraria.IO\src\Livraria.IO.Domain.Core\obj\Debug\netstandard2.0\Livraria.IO.Domain.Core.pdb
